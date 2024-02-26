@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IUE7VU_HFT_2022231.Models\IUE7VU_HFT_2022231.Models.csproj" />
+    <ProjectReference Include="..\IUE7VU_HFT_2022231.Repository\IUE7VU_HFT_2022231.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,2 +1,4 @@
-# WorkoutConsoleManager
-Manage your workout with ConsoleMenu
+Basic ConsoleMenu based training management
+-------------------------------------------
+#Info
+Set Startup
